@@ -14,7 +14,7 @@ title: 'Julie Frank'
 slogan: 'CFD Engineer'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: ''
+description: 'I am a current PhD Student in the Centre for Doctoral Training for Fluid Dynamics at the University of Leeds. My project is focused on developping a better understanding of how to incorporate Phase Change Materials (PCM) into Compact Heat Exchangers for Aircraft Thermal Management Systems.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p> Adapted by Julie Frank from template created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -192,8 +192,7 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : jyfrank4
 
 
 #        ____  _
